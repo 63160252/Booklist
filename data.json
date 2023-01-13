@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is Travel",
+        "subtitle" : "Go from one place to another, typically over a distance of some length.",
+        "image_url" : "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHRyYXZlbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "detail" : "The Tourism Authority of Thailand (TAT) has announced that Thailand continues to welcome all international tourists under the fully-reopen-to-tourism policy that was introduced on 1 October 2022.Thailand’s Deputy Prime Minister and Minister of Public Health, said “International travelers arriving in Thailand are not required to show proof of vaccination.”In addition, foreign tourists are not required to show ATK or RT-PCR test results.However, while Thailand is welcoming all visitors, a visitor’s country of origin or next country of destination may require incoming visitors including their own nationals returning home to have a negative PCR result.Thus, Thailand is aiming to correspond with the rules of these countries and does require COVID insurance for visitors from these countries or visitors to Thailand continuing on to these countries, in the case they test positive while in Thailand. Among such countries are China and India."
+    },
+    {
+        "title" : "Countries to visit",
+        "subtitle" : "1. France: 89 Million Visitors",
+        "image_url" : "https://www.state.gov/wp-content/uploads/2020/11/shutterstock_186964970-scaled.jpg",
+        "detail" : ""
+    },
+    {
+        "title" : "Recommended Attractions",
+        "subtitle" : "Eiffel Tower",
+        "image_url" : "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_860/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rr6iuinyuchcib3teptv/%E0%B8%97%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B9%84%E0%B8%AD%E0%B9%80%E0%B8%9F%E0%B8%A5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B8%A1%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A2(%E0%B9%81%E0%B8%9E%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%88%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1)%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA.webp",
+        "detail" : ""
+    }
+]
